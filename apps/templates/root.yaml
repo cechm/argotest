@@ -13,7 +13,7 @@ spec:
     path: apps/
     repoURL: https://github.com/cechm/argotest.git
     targetRevision: HEAD
-  syncPolicy:
-    automated:
-      prune: true
-      selfHeal: true
+#  syncPolicy:
+#    automated:
+#      prune: true
+#      selfHeal: true
