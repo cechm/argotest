@@ -2,7 +2,7 @@ argo-cd:
   redis-ha:
     enabled: true
   dex:
-    enabled: false
+    enabled: true
   server:
     extraArgs:
       - --insecure
